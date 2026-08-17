@@ -3,7 +3,7 @@
 Criação de Funcionalidades
 
 - Formulario financeiro
-- correção de posição de modal
+- Correção de posição de modal
 - Correções de front-end
 
 Informações sobre o versionamento semantico
