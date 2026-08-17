@@ -13,7 +13,7 @@ O que é
 
 - Também conhecido como SemVer é utilizando no GIT para
 padronizar a numeração de versões para seguir o padrão
-MAJOR.MINOT.PATCH Assim como: 1.0.0
+MAJOR.MINOR.PATCH Assim como: 1.0.0
 
 
 Significado de MAJOR.MINOR.PATCH
